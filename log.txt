@@ -1,0 +1,12 @@
+[LOG] Failed to verify -> Source\test4.txt
+[LOG] Failed to verify -> Source\test6.txt
+[LOG] Failed to verify -> Source\test7 - Copy.txt
+[LOG] Cloned file - Source\test4.txt
+[LOG] Cloned file - Source\test6.txt
+[LOG] Cloned file - Source\test7 - Copy.txt
+[LOG] Failed to verify -> Source\test3.txt
+[LOG] Cloned file - Source\test3.txt
+[LOG] Failed to verify -> Source\test3.txt
+[LOG] Failed to verify -> Source\test4.txt
+[LOG] Failed to verify -> Source\test6.txt
+[LOG] Failed to verify -> Source\test7 - Copy.txt
