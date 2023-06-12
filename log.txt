@@ -1,0 +1,27 @@
+INFO:root:Copied file Source\test1.txt to Replica\test1.txt
+INFO:root:Copied file Source\test2.txt to Replica\test2.txt
+INFO:root:Copied file Source\test3.txt to Replica\test3.txt
+INFO:root:Copied file Source\test4.txt to Replica\test4.txt
+INFO:root:Copied file Source\test6.txt to Replica\test6.txt
+INFO:root:Copied file Source\test7 - Copy.txt to Replica\test7 - Copy.txt
+INFO:root:Copied file Source\test7.txt to Replica\test7.txt
+INFO:root:Copied file Source\test4.txt to Replica\test4.txt
+INFO:root:Copied file Source\test6.txt to Replica\test6.txt
+INFO:root:Copied file Source\test7 - Copy.txt to Replica\test7 - Copy.txt
+INFO:root:Copied file Source\test7.txt to Replica\test7.txt
+INFO:root:Copied file Source\test6.txt to Replica\test6.txt
+INFO:root:Copied file Source\test6.txt to Replica\test6.txt
+INFO:root:Removed file Replica\test4.txt
+INFO:root:Removed file Replica\test6.txt
+INFO:root:Removed file Replica\test7 - Copy.txt
+INFO:root:Removed file Replica\test7.txt
+INFO:root:Copied file Source\test1.txt to Replica\test1.txt
+INFO:root:Copied file Source\test2.txt to Replica\test2.txt
+INFO:root:Copied file Source\test3.txt to Replica\test3.txt
+INFO:root:Copied file Source\test1.txt to Replica\test1.txt
+INFO:root:Copied file Source\test2.txt to Replica\test2.txt
+INFO:root:Copied file Source\test3.txt to Replica\test3.txt
+INFO:root:Copied file Source\test1.txt to Replica\test1.txt
+INFO:root:Copied file Source\test2.txt to Replica\test2.txt
+INFO:root:Copied file Source\test3.txt to Replica\test3.txt
+INFO:root:Removed file Replica\test2.txt
